@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "50400047371",
+    "project_id": "report-university",
+    "storage_bucket": "report-university.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50400047371:android:2a906087344f370929320e",
+        "android_client_info": {
+          "package_name": "com.mohammad.report_craim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50400047371-n2vtesg5q0uuln6bqqefddr8h9ga8kb0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mohammad.report_craim",
+            "certificate_hash": "97c81a3692cfe46ed6791a647f88c0a0c3a7e19d"
+          }
+        },
+        {
+          "client_id": "50400047371-7csr0mb3vfge3csi9867ll6rqfhhqc12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhngJFDh8ca8DKuwYDycc-rwiRnXNL3kw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50400047371-7csr0mb3vfge3csi9867ll6rqfhhqc12.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,38 @@
+name: firebase_authentication_tutorial
+description: A new Flutter project.
+
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.3
+
+  #Firebase
+  geocoding: ^2.0.0
+  permission_handler: ^7.1.0
+  get_phone_number: ^2.0.0
+  firebase_core: ^1.1.0
+  flutter_signin_button: ^2.0.0
+  google_sign_in: ^5.0.2
+  cloud_firestore: ^2.0.0
+  firebase_auth: ^1.1.3
+  provider: ^5.0.0
+  location: ^4.1.1
+  geolocator: ^7.0.3
+  get_time_ago: ^1.0.1
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+   - a.png
+   - aa.png
